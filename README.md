@@ -11,7 +11,7 @@
 
 ### Dependencias
 
-* [Laboratorio Componentes y conectores Middleware- gestión de planos (Blueprints) Parte 1](https://github.com/ARSW-ECI-beta/REST_API-JAVA-BLUEPRINTS_PART1)
+* [Laboratorio Componentes y conectores Middleware- gestión de planos (Blueprints) Parte 1](https://github.com/Candres1019/ARSW-LAB04)
 
 ### Descripción
 
